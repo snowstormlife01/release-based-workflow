@@ -5,7 +5,7 @@ mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
 
-Playable Version is this:
+Playable Version is this one:
 https://snowstormlife01.github.io/release-based-workflow/
 
 Bit.ly link for mobile: 
